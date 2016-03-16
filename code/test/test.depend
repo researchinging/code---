@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1414047128 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\main.cpp
+	<iostream>
+	"minheap.h"
+
+1413097046 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\rbtree.h
+	<iomanip>
+	<iostream>
+
+1413171363 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\skiplist.cpp
+	"skiplist.h"
+
+1413171305 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\skiplist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1413771610 source:c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\test.cpp
+	<iostream>
+	"graph.h"
+
+1413597068 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\area_quicksort.h
+	<stdlib.h>
+
+1413596268 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\area.h
+
+1413771710 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\graph.h
+	<iostream>
+
+1414047569 c:\users\dayan\desktop\学习笔记--徐佳宾\数据结构与算法系列\线性结构\test\minheap.h
+
